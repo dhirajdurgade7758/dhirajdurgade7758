@@ -47,12 +47,6 @@ A centralized platform for diploma students to access & share study materials
 
 ---
 
-## 📈 GitHub Snapshot
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajdurgade7758&show_icons=true&theme=radical)
-
----
-
 ## 💬 Let’s Connect
 📫 Email: **dhirajdurgade7758@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/dhirajdurgade/)  
