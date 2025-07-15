@@ -12,6 +12,7 @@ I craft **production-ready**, **scalable**, and **secure** web applications usin
 - 🔐 Integrate secure login systems (OAuth, Custom Auth)
 - 📦 Package and deploy with Docker + GitHub Actions
 - ⚡ Automate workflows and repetitive tasks with Python
+- 🌍 Create real-time apps using Django Channels + WebSockets
 
 ---
 
@@ -21,29 +22,53 @@ I craft **production-ready**, **scalable**, and **secure** web applications usin
 `Python` · `Django` · `Django Rest Framework` · `Django Channels` · `Celery` · `Redis` · `HTMX`
 
 ### 🗃️ Databases & Search
-`PostgreSQL` · `SQLite` · `ElasticSearch`
+`PostgreSQL` · `SQLite` · `Elasticsearch`
 
 ### 🌐 APIs & Integration
-`OpenAI APIs` · `Google OAuth` · `Razorpay` · `Custom RESTful APIs`
+`OpenAI API` · `Twilio` · `Razorpay` · `Google OAuth` · `Custom REST APIs`
 
-### ⚙️ DevOps & Workflow
-`Docker` · `Docker Hub` · `Git & GitHub` · `GitHub Actions (CI/CD)` · `Cloud Deployment`
+### 🎨 Frontend
+`HTML` · `CSS` · `JavaScript` · `Bootstrap` · `Tailwind CSS`
+
+### ⚙️ DevOps & Tools
+`Docker` · `Docker Hub` · `Git & GitHub` · `GitHub Actions (CI/CD)` · `Railway` · `Bootstrap Studio` · `xhtml2pdf` · `PDFKit`
 
 ---
 
 ## 📦 Highlight Projects
 
-### 🧑‍💻 [DevSearch](https://github.com/dhirajdurgade7758/devsearch)
-A developer portfolio discovery platform  
-**🔧 Tech:** Django · DRF · Bootstrap · Pagination · Search  
-**✅ Features:** Profile search, voting system, comment threads
+### 🔔 [Notiflow – AI Smart Reminder System](https://github.com/dhirajdurgade7758/notiflow)
+AI-powered reminder system with natural language commands, Celery task scheduling, and real-time WebSocket alerts.  
+**🔧 Tech:** Django · Celery · Redis · Django Channels · HTMX · Groq LLaMA3  
+**✨ Features:** Recurring reminder parsing, email/SMS alerts, real-time updates
 
 ---
 
-### 🎓 [Poly Community](https://github.com/dhirajdurgade7758/poly-community)
-A centralized platform for diploma students to access & share study materials  
-**🔧 Tech:** Django · SQLite · Bootstrap · User Auth  
-**🎯 Outcome:** Improved accessibility of academic resources for 100+ students
+### 💬 [RealTime ChatApp](https://github.com/dhirajdurgade7758/chatAPP)
+A live group/private messaging app with real-time updates and file sharing.  
+**🔧 Tech:** Django · Django Channels · HTMX · Tailwind CSS · WebSockets  
+**✨ Features:** Real-time chat, file upload, email verification
+
+---
+
+### 💼 [Job Portal & AI Resume Generator](https://github.com/dhirajdurgade7758/jobportal)
+Job listing and resume generator platform with full-text search and GPT integration.  
+**🔧 Tech:** Django · Elasticsearch · GPT-4o/Mixtral · Redis · xhtml2pdf  
+**✨ Features:** AI-generated summaries, dynamic filters, PDF export
+
+---
+
+### 📄 [AI Resume Assistant](https://github.com/dhirajdurgade7758/ai-resume-assistant)
+Tool to generate professional resumes using OpenAI API and export them as PDFs.  
+**🔧 Tech:** Django · OpenAI API · Bootstrap · PDFKit  
+**✨ Features:** Custom summary generation, single-page PDF export
+
+---
+
+### 🧑‍💻 [DevSearch](https://github.com/dhirajdurgade7758/devsearch)
+A developer portfolio discovery platform  
+**🔧 Tech:** Django · DRF · Bootstrap  
+**✅ Features:** Profile search, voting system, comment threads
 
 ---
 
