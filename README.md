@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Python Django Developer | Backend Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/dhirajdurgade7758">
-    <img src="https://komarev.com/ghpvc/?username=dhirajdurgade7758&label=Profile%20views&color=0e75b6&style=flat"/>
+  <a href="https://github.com/dhirajdurgade7758?tab=followers">
+    <img src="https://img.shields.io/github/followers/dhirajdurgade7758?label=Followers&style=social"/>
   </a>
 </p>
 
